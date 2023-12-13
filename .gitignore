@@ -1,0 +1,6 @@
+packages/download
+bench/*/*full
+bench/*/*setup
+
+oci/bandit4mal/bandit4mal/examples/urllib_request_Request.py
+oci/bandit4mal/bandit4mal/examples/urllib_request_request.py

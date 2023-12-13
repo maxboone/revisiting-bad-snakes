@@ -1,0 +1,41 @@
+Archive:  /tmp/package.zip
+   creating: /tmp/package/2022-11-08-wordsdict/
+   creating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/PKG-INFO  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.py  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.cfg  
+   creating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/PKG-INFO  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/not-zip-safe  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/SOURCES.txt  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/top_level.txt  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/dependency_links.txt  
+Run started:2023-12-10 22:54:21.856416
+
+Test results:
+>> Issue: [B824:url_found] url_found
+   Severity: Medium   Confidence: Medium
+   Location: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.py:5
+   More Info: https://bandit.readthedocs.io/en/latest/plugins/b824_url_found.html
+4	      version='0.2',
+5	      url='https://github.com/resweirdoo/wordsdict',
+6	      license='MIT',
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 10
+	Total lines skipped (#nosec): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0.0
+		Low: 0.0
+		Medium: 1.0
+		High: 0.0
+	Total issues (by confidence):
+		Undefined: 0.0
+		Low: 0.0
+		Medium: 1.0
+		High: 0.0
+Files skipped (0):

@@ -1,0 +1,13 @@
+Archive:  /tmp/package.zip
+   creating: /tmp/package/2022-11-08-wordsdict/
+   creating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/PKG-INFO  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.py  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.cfg  
+   creating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/PKG-INFO  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/not-zip-safe  
+  inflating: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/SOURCES.txt  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/top_level.txt  
+ extracting: /tmp/package/2022-11-08-wordsdict/wordsdict-0.2/wordsdict.egg-info/dependency_links.txt  
+{"/tmp/package/2022-11-08-wordsdict/wordsdict-0.2/setup.py": []}
